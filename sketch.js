@@ -19,7 +19,6 @@ function draw() {
   } else {
     rect(x, y, size, size);
   }
-
  
   stroke(255, random(200)); 
   line(mouseX, mouseY, random(width), random(height));
