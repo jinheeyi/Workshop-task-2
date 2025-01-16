@@ -14,7 +14,8 @@ function draw() {
 
   fill(random(255), random(255), random(255), 150); 
   if (random() < 0.5) {
-    ellipse(x, y, size, size); 
+    ellipse(x, y, size, size);
+  }else{
     rect(x, y, size, size); 
   }
 
