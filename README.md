@@ -1,7 +1,7 @@
 Website link: https://jinheeyi.github.io/workshop2/
 
 ## Introduction
-- Continuing and going back to workshop 1, I felt the completed background was missing something to make it more abstract, and bringing it to life. The workshop 1, where circles and shapes, popping out, seemed natural to bring visual interest, but I thought to myself that I wanted to make the sketch enjoyable for viewers (circles and shapes popping out). So I looked up into variables, and decided to focus on creating repetitive lines which it'll enhance the rhythm and the flow of the composition.
+- Continuing and going back to workshop 1, I felt the completed background was missing something to make it more abstract, and bringing it to life. The workshop 1, where circles and shapes, popping out, seemed natural to bring visual interest, but I thought to myself that I wanted to make the sketch enjoyable for viewers, and creating their own sketch, interacting it. (circles and shapes popping out). So I looked up into variables, again and decided to focus on creating repetitive lines which it'll enhance the rhythm and the flow of the composition for this workshop. 
 - By adding it, it'll interact, with using the code mouseX and mouseY, and putting random numbers. The mouse will eventually turn into lines that scatter only inside the sketch. 
 
 ## Notes(working progress)
@@ -14,3 +14,5 @@ Website link: https://jinheeyi.github.io/workshop2/
   line(mouseX, mouseY, random(width), random(height));
 ```
 ## Conclusion (+ future development)
+- Overall, I learned on adding more abstract moments in this workshop, which it was worth it.
+-The sketch closely resembled the reference from my earlier work inspired by Fischinger, which made me feel proud. I appreciated how it transitioned smoothly from the planned vibrant background to an abstract expression. Moving forward, I aim to further explore and refine this approach for the next workshop. 
