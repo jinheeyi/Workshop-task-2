@@ -13,6 +13,7 @@ Website link: https://jinheeyi.github.io/workshop2/
   stroke(255, random(200)); 
   line(mouseX, mouseY, random(width), random(height));
 ```
+an examplar: https://editor.p5js.org/ac8588/sketches/P_BxUm2yh
 ## Conclusion (+ future development)
 - Overall, I learned on adding more abstract moments in this workshop, which it was worth it.
 -The sketch closely resembled the reference from my earlier work inspired by Fischinger, which made me feel proud. I appreciated how it transitioned smoothly from the planned vibrant background to an abstract expression. Moving forward, I aim to further explore and refine this approach for the next workshop. 
