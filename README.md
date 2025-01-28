@@ -13,7 +13,10 @@ Website link: https://jinheeyi.github.io/workshop2/
   stroke(255, random(200)); 
   line(mouseX, mouseY, random(width), random(height));
 ```
-an examplar for random lines burst: https://editor.p5js.org/ac8588/sketches/P_BxUm2yh
+an examplar for random lines burst: 
+- https://editor.p5js.org/ac8588/sketches/P_BxUm2yh
+- https://editor.p5js.org/ellabandouveris/sketches/Ku0iU7oOz
+
 ## Conclusion (+ future development)
 - Overall, I learned on adding more abstract moments in this workshop, which it was worth it.
--The sketch closely resembled the reference from my earlier work inspired by Fischinger, which made me feel proud. I appreciated how it transitioned smoothly from the planned vibrant background to an abstract expression. Moving forward, I aim to further explore and refine this approach for the next workshop. 
+-The sketch closely resembled the reference from my earlier work inspired by Fischinger, which made me feel proud. I appreciated how it transitioned smoothly from the planned vibrant background to an abstract expression. Moving forward, I aim to further explore and refine this approach for the next workshop. Thanks on using the _random()_, it worked very well to make bursted white lines for to use on abstract. 
